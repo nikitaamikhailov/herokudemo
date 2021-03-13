@@ -4,6 +4,7 @@
     "/*": {
       "X-Author": "flhero50",
       "Access-Control-Allow-Origin": "*"
+    alert("ggg");
     }
   }
 }
