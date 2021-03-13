@@ -3,8 +3,7 @@
   "headers": {
     "/*": {
       "X-Author": "flhero50",
-      "Access-Control-Allow-Origin": "*";
-      alert("ggg");
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
